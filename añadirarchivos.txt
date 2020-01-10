@@ -1,0 +1,6 @@
+Primero cogemos y hacemos un pull(git pull)
+Cogemos hacemos git add para añadir cosas nazis(git add . "Nombre del archivo")
+continuamos con git commit -m "nombre del archivo"
+y finalizamos con git push origin master
+descargamos todo con git pull
+tttttttttttttttttttttttttttttttttttttttttttttttttttt
